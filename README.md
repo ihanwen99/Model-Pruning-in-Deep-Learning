@@ -13,7 +13,7 @@
 
 `codes` 文件夹是自己剪枝方法的实现
 
-本文使用的模型下载后放置到根目录下。
+本文[使用的模型](https://drive.google.com/file/d/1R8YnEVGW3r0ZVFY3Rly_LVAxtNZEBQg6/view?usp=sharing)下载后放置到根目录下。
 
 ---
 PDF格式报告链接： [Report.pdf](README/Report.pdf) 
