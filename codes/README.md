@@ -22,3 +22,4 @@ To get feature interest patterns of different layers, change the network structu
 
 - prefer-test.py 优先级裁剪并且测试
 
+实验结果证明该方法有效。
